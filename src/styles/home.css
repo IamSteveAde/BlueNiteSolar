@@ -14,6 +14,9 @@
     right: 0;
     background-color: #156dee;
 }
+.chatme p{
+    color: white;
+}
 .chatme:hover{
     cursor: pointer;
     background-color: #156dee;
@@ -1285,6 +1288,7 @@ input[type=submit]:hover{
     .chatme{
         border: solid 2px #156dee;
         width:30%;
+        color: white;
         padding-left: 10px; 
         padding-right: 10px;
         border-radius: 20px;
@@ -1293,6 +1297,9 @@ input[type=submit]:hover{
         bottom: 0;
         right: 0;
         background-color: #156dee;
+    }
+    .chatme p{
+        color: white;
     }
     
    
